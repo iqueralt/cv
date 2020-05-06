@@ -1,5 +1,5 @@
 ## [Ignacio Martín Queralt Flores](https://www.linkedin.com/in/ignacio-mart%C3%ADn-queralt-flores-209698107/) – Machine Learning Engineer
-[nachoqueralt@gmail.com](mailto:nachoqueralt@gmail.com)   |   [github.com/iqueralt](https://github.com/iqueralt)   |    [+310618338398](https://ctrlq.org/call/+310618338398)
+[nachoqueralt [at] gmail.com](mailto:nachoqueralt@gmail.com)   |   [github.com/iqueralt](https://github.com/iqueralt)   |    [+310618338398](https://ctrlq.org/call/+310618338398)
 
 An ambitious machine learning engineer with experience designing, building, scaling, and maintaining business-critical machine learning systems on top of a very strong academic background. Ability to tackle complex problems coupled with the confidence to make ideas heard. Excited about helping machine learns so that they can help us in return.
 
